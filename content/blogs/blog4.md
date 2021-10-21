@@ -24,5 +24,5 @@ However, even though the beginning sucks. We love the scenery during that journe
 **Vancuour**
 I went to Vancuour with 2 girls. The city is very different from the French region. It's bright, warm and modern. Uber was not allowed by the local government there, so the travel was a little bit difficult. We rushed to the Hotpot restaurant for lunch and headed for the city center since I had a show that night. It shocked us that the stores closed at 5 pm in Van. I watched a world tour show of the famous Chinese comedian of Chinese traditional crosstalk. It was so funny!
 
-image:ca2.jpg
+
 
