@@ -92,10 +92,10 @@ params:
         subtitle: Trip during Exchange 
         title: Canada
         url: blogs/canada
-     # - image: pic04.jpg
-    #    subtitle: Nisl Sed Aliquam
-     #   title: Ipsum
-      #  url: blogs/ipsum
+      - image: pic04.jpg
+        subtitle: Some internship experiences
+        title: Resume
+        url: blogs/resume
       #- image: pic05.jpg
        # subtitle: Ipsum Dolor Sit Amet
         #title: Consequat
