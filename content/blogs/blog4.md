@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T22:42:51-05:00"
 description: Several trips during my exchange semester
 draft: false
-image: ca1.jpg
+image: ca4.jpg
 keywords: ""
 slug: canada
 title: Canada Trip 
